@@ -101,8 +101,8 @@ My goal is to combine technology, creativity, and entrepreneurship to build mean
 
 <div align="center">
 
-<a href="https://github.com/SEU-USUARIO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO&repo=SEU-REPOSITORIO&theme=transparent&border_color=00F7FF&title_color=00F7FF&icon_color=8B5CF6"/>
+<a href="https://github.com/alanyscesariodev">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=alanyscesariodev&repo=SEU-REPOSITORIO&theme=transparent&border_color=00F7FF&title_color=00F7FF&icon_color=8B5CF6"/>
 </a>
 
 </div>
@@ -151,27 +151,10 @@ My goal is to combine technology, creativity, and entrepreneurship to build mean
 
 ---
 
-## `08 // CONTRIBUTION ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&bg_color=00000000&color=00F7FF&line=8B5CF6&point=00F7FF&area=true&area_color=0891B2&hide_border=true&custom_title=Contribution%20Activity"/>
-
-</div>
 
 ---
 
-## `09 // ACHIEVEMENTS`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=onestar&no-frame=true&no-bg=true&column=6&margin-w=10"/>
-
-</div>
-
----
-
-## `10 // CONTRIBUTION SNAKE`
+## `08 // CONTRIBUTION SNAKE`
 
 <div align="center">
 
@@ -181,7 +164,7 @@ My goal is to combine technology, creativity, and entrepreneurship to build mean
 
 ---
 
-## `11 // CONNECT WITH ME`
+## `09 // CONNECT WITH ME`
 
 <div align="center">
 
@@ -193,7 +176,7 @@ My goal is to combine technology, creativity, and entrepreneurship to build mean
 <img src="https://img.shields.io/badge/Email-Business_Contact-00F7FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/SEU-USUARIO">
+<a href="https://github.com/alanyscesariodev">
 <img src="https://img.shields.io/badge/GitHub-My_Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
