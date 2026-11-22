@@ -135,36 +135,9 @@ My goal is to combine technology, creativity, and entrepreneurship to build mean
 
 ---
 
-## `07 // GITHUB ANALYTICS`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=8B5CF6&text_color=C9D1D9&include_all_commits=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=C9D1D9"/>
-
-<br><br>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=transparent&hide_border=true&ring=00F7FF&fire=8B5CF6&currStreakLabel=00F7FF&sideLabels=C9D1D9&dates=64748B"/>
-
-</div>
-
----
 
 
----
-
-## `08 // CONTRIBUTION SNAKE`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
-</div>
-
----
-
-## `09 // CONNECT WITH ME`
+## `07// CONNECT WITH ME`
 
 <div align="center">
 
